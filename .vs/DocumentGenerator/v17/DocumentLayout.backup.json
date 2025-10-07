@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\models\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\models\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|C:\\Users\\333\\source\\repos\\DocumentGenerator\\documentgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\models\\documenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\models\\documenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\models\\tagdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\models\\tagdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\333\\source\\repos\\documentgenerator\\documentgenerator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3840F44C-CD78-4916-81BE-699A397418A7}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Services\\DocumentService.cs",
+              "RelativeToolTip": "DocumentGenerator\\Services\\DocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:06:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Services\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Services\\IDocumentService.cs",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Services\\IDocumentService.cs",
+              "RelativeToolTip": "DocumentGenerator\\Services\\IDocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:42:24.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Program.cs",
+              "RelativeToolTip": "DocumentGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:11:04.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Form1.resx",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Form1.resx",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Form1.resx",
+              "RelativeToolTip": "DocumentGenerator\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-05T12:59:59.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Form1.Designer.cs",
+              "RelativeToolTip": "DocumentGenerator\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:49:21.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Models\\DocumentTemplate.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Models\\DocumentTemplate.cs",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Models\\DocumentTemplate.cs",
+              "RelativeToolTip": "DocumentGenerator\\Models\\DocumentTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:40:33.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TagData.cs",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Models\\TagData.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Models\\TagData.cs",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Models\\TagData.cs",
+              "RelativeToolTip": "DocumentGenerator\\Models\\TagData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:03:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentModel.cs",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Models\\DocumentModel.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Models\\DocumentModel.cs",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Models\\DocumentModel.cs",
+              "RelativeToolTip": "DocumentGenerator\\Models\\DocumentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:15:18.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Form1.cs",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DocumentGenerator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:13:40.229Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Form1.cs",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\Form1.cs",
+              "RelativeToolTip": "DocumentGenerator\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:12:15.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\App.config",
+              "RelativeDocumentMoniker": "DocumentGenerator\\App.config",
+              "ToolTip": "C:\\Users\\333\\source\\repos\\DocumentGenerator\\DocumentGenerator\\App.config",
+              "RelativeToolTip": "DocumentGenerator\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-05T10:12:15.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
